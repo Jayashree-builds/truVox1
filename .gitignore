@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+**/node_modules/
+**/venv/
+**/.venv/
+frontend/dist/
+backend/uploads/
+backend/reports/
+backend/cases/
+backend/models/pretrained_models/
+**/.env
+.env
+!backend/.env.example
+__pycache__/
+*.py[cod]
+=======
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+>>>>>>> 6594e4f4bf835a460745065b64555124ce96106a
